@@ -22,7 +22,7 @@
 特征向量决定椭球方向（各向异性）
 
 实际存储：转换为旋转矩阵（R）和缩放矩阵（S），即 Σ = R·S·Sᵀ·Rᵀ，减少参数冗余。
-<img src="media/3DGS.png" alt="3D高斯椭球" width="400" />
+<img src="media/3DGS.png" alt="3D高斯椭球" width="600" />
 
 2. 可微渲染管线
 步骤：
